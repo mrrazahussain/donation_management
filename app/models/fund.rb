@@ -1,0 +1,3 @@
+class Fund < ApplicationRecord
+    
+end
